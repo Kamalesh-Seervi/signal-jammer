@@ -7,3 +7,10 @@ chmod +x jammer.sh
 ```
 - To run the script type the below command.
 ```
+./jammer.sh
+```
+
+- To check the channel number and bssid number for the target wifi type the below command.
+```
+airodump-ng wlan0
+```
